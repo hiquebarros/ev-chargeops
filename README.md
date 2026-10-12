@@ -2,6 +2,12 @@
 
 Protótipo de gestão de recarga compartilhada desenvolvido para o Enterprise Challenge 2026 (FIAP × GoodWe). O fluxo registra sessões por unidade, valida dados com IA, bloqueia o fechamento para revisão humana e calcula faturas reconciliadas com a conta da distribuidora.
 
+> [!IMPORTANT]
+> ### ▶ Vídeo de demonstração do protótipo
+> **[Assista no YouTube: https://youtu.be/hKh16p0JQUs](https://youtu.be/hKh16p0JQUs)**
+>
+> Percurso completo: painel do gestor, fila de anomalias da IA, revisão humana, fechamento da competência e portal do morador.
+
 ## Equipe
 
 | Nome | RM | Curso |
